@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score
+cn_30_8_2e-4_adamax.txt,0.9682539682539683,0.91,0.91,0.91
